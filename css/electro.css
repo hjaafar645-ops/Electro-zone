@@ -50,6 +50,19 @@ nav .logo {
     transform: translateY(4px);
 }
 
+@media (max-width:576px) {
+    .off-hidden {
+        display: flex;
+        flex-direction: column;
+        width: auto;
+        padding: 0 40px;
+    }
+
+    .off-hidden input {
+        margin-bottom: 5px;
+    }
+}
+
 /* Start-Offcanvas */
 
 .offcanvas-body {
