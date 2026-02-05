@@ -55,7 +55,7 @@ nav .logo {
         display: flex;
         flex-direction: column;
         width: auto;
-        padding: 0 40px;
+        padding: 0 7px;
     }
 
     .off-hidden input {
